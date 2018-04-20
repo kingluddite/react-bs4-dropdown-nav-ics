@@ -1,0 +1,12 @@
+.navbar-brand {
+    color: red;
+}
+
+.navbar__bg-ics {
+    background-color: #0099da;
+}
+
+a {
+    color: #aaa;
+    font-weight: 200;
+}
